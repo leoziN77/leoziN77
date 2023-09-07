@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leoziN77
+- 👋 Hi, I’m @Chiquin
 - 👀 I’m interested in learn more about this programming world
 - 🌱 I’m currently having introductions about the course
 - 📫 How to reach me just send me an email at leochiquito.mga@gmail.com
