@@ -18,18 +18,5 @@ object **leoziN77** {
 }
 ```
 
-[website]: https://leozin77.github.io/
-[instagram]: https://www.instagram.com/_chiquin7/
-[linkedin]: https://www.linkedin.com/in/leonardochiquito/
-
-<br>
-
-## Rede sociais
-
-🏡 [Website][website] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
-
-
 # Estatísticas
 [![card](https://github-readme-stats.vercel.app/api?username=leozin77&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
