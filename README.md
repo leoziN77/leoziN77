@@ -23,7 +23,6 @@ object **leoziN77** {
 [linkedin]: https://www.linkedin.com/in/leonardochiquito/
 
 <br>
-
 ## Rede sociais
 
 🏡 [Website][website] **|**
